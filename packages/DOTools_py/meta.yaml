@@ -13,5 +13,6 @@ license: MIT
 language: Python
 contact:
   - davidrm-bio
+logo: logo.png
 test_command: pip install "." && pytest
 category: ecosystem
